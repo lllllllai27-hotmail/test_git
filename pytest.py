@@ -10,9 +10,9 @@ print('yyyyyyyyyyyyyyyyyyyyyyyyyy')
 print('yyyyyyyyyyyyyyyyyyyyyyyyyy')
 print('yyyyyyyyyyyyyyyyyyyyyyyyyy')
 
-print("xxx， new linePPPPPPPP")
+# print("xxx， new linePPPPPPPP")
 
-print("xxx， new line2")
+# print("xxx， new line2")
 
 print("xxx， new line3")
 
